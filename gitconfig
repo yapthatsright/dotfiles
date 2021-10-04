@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = odysseynadia@gmail.com
+	name = Nadia Yap
